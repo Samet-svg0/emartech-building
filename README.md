@@ -22,4 +22,5 @@ CSS
 JS
 
 Boostrap
- #Ekran Goruntusu
+
+ <h1> #Ekran Goruntusu
