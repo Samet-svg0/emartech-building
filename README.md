@@ -24,4 +24,5 @@ JS
 Boostrap
 
  # Ekran Goruntusu
-![bandicam2025-02-1401-01-53-488-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/13e4e793-cece-49e4-b75f-3cef03720273)
+
+![bandicam2025-03-0101-21-49-711-ezgif com-crop](https://github.com/user-attachments/assets/1e021bcf-2f5d-4659-8997-f07cfce86cbc)
