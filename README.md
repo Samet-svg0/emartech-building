@@ -25,4 +25,5 @@ Boostrap
 
  # Ekran Goruntusu
 
-![bandicam2025-03-0101-21-49-711-ezgif com-crop](https://github.com/user-attachments/assets/1e021bcf-2f5d-4659-8997-f07cfce86cbc)
+![bandicam2025-03-0101-42-54-241-ezgif com-crop](https://github.com/user-attachments/assets/45ff7f03-e95d-479a-a28c-71635db6ad81)
+
